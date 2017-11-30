@@ -20,6 +20,7 @@ The AI NOW report summaries several recommendations made by AI NOW in the implem
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 This article provides a guide on what banks need to consider when using AIs to make decisions regarding lending. It details several main points:
+
      * AIs learn by using preexisting data that has the desired result already determined through manual means, which is subject to bias.
      * While consumers can view their own credit report and check for its accuracy, there could be data from nontraditional sources which are not available to the consumer to check which lack transarency. This can even go as far as looking at social patterns, such as where a person shops or who they interact with.
      * Recommendations are made that lenders monitor changing regulations and test for potential bias.
